@@ -10,11 +10,6 @@ Para facilitar a navegação, os materiais estão organizados por pasta sobre o 
     * 📝 `01_Exercícios_Python_MatheusBarbosa_6ºC_Noturno.ipynb`
 * *(Novas atividades e projetos serão adicionados conforme a progressão do curso)*
 
-*   **`01_Exercícios_Python_MatheusBarbosa_6ºC_Noturno.ipynb`**
-    *   **Descrição:** Notebook Jupyter contendo a primeira lista de exercícios práticos desenvolvidos na linguagem Python. 
-    *   **Conteúdo:** Focado na resolução de problemas lógicos e matemáticos, servindo como base técnica de programação para a implementação futura de algoritmos de Inteligência Artificial.
-    *   **Autor:** Matheus Barbosa (Turma 6ºC - Noturno).
-
 ## 🚀 Tecnologias Utilizadas
 
 *   **Python:** Linguagem principal utilizada para a resolução dos exercícios e desenvolvimento dos modelos da disciplina.
